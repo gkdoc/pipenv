@@ -1,10 +1,13 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-
 ---
 
 Be sure to check the existing issues (both open and closed!).
+
+Check the [diagnose documentation](https://docs.pipenv.org/diagnose/) for common issues before posting! We may close your issue if it is very similar to one of them. Please be considerate, or be on your way.
+
+Make sure to mention your debugging experience if the documented solution failed.
 
 ------------
 
@@ -35,3 +38,7 @@ If you're on macOS, run the following:
 If you're on Windows, run the following:
 
     > pipenv --support | clip
+
+If you're on Linux, run the following:
+
+    $ pipenv --support | xclip

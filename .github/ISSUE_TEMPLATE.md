@@ -1,5 +1,9 @@
 Be sure to check the existing issues (both open and closed!).
 
+Check the [diagnose documentation](https://docs.pipenv.org/diagnose/) for common issues before posting! We may close your issue if it is very similar to one of them. Please be considerate, or be on your way.
+
+Make sure to mention your debugging experience if the documented solution failed.
+
 ------------
 
 ##### Issue description
